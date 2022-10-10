@@ -1,0 +1,5 @@
+function Timer() {
+    this.init = () => {
+
+    }
+}
